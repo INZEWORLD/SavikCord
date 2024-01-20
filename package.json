@@ -1,0 +1,47 @@
+{
+  "name": "savik",
+  "version": "2.1.0",
+  "description": "SavikCord — это база развлекательного и музыкального бота Discord.",
+  "main": "src/index.js",
+  "repository": "https://github.com/INZEWORLD/Savik.git",
+  "author": "SaHeR",
+  "license": "ISC",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "prisma:generate": "npx prisma generate"
+  },
+  "keywords": [
+    "lavalink",
+    "vulkava",
+    "music",
+    "bot",
+    "discord-music",
+    "discord",
+    "musicbot"
+  ],
+  "bugs": "https://github.com/INZEWORLD/Savik/issues",
+  "homepage": "https://github.com/INZEWORLD/Savik#readme",
+  "devDependencies": {
+    "@types/signale": "^1.4.6",
+    "prisma": "^5.6.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.6.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "shoukaku": "^3.4.0",
+    "shoukaku-sources": "^1.0.2",
+    "signale": "^1.4.0",
+    "undici": "^5.26.5"
+  },
+  "signale": {
+    "displayScope": true,
+    "displayBadge": true,
+    "displayDate": true,
+    "displayFilename": true,
+    "displayLabel": true,
+    "displayTimestamp": true,
+    "underlineLabel": true
+  }
+}
