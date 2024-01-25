@@ -56,20 +56,12 @@
 - ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
 
 
-**Примечание: Возможные поддержки**
+**Примечание:  Пддерживает**
 
 - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white) 
-- ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white) 
 - ![Apple Music](https://img.shields.io/badge/Apple%20Music-000000?style=plastic&logo=apple-music&logoColor=white)
 - ![Yandex Music](https://img.shields.io/badge/Yandex%20Music-FF0066?style=plastic&logo=yandex-music&logoColor=white) 
-- ![Mixcloud](https://img.shields.io/badge/Mixcloud-51C4D3?style=plastic&logo=mixcloud&logoColor=white) 
-- ![Ocremix](https://img.shields.io/badge/Ocremix-FF6600?style=plastic&logo=ocremix&logoColor=white) 
-- ![Clyp](https://img.shields.io/badge/Clyp-6BB5A6?style=plastic&logo=clyp&logoColor=white)
 - ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white) 
-- ![Getyarn](https://img.shields.io/badge/Getyarn-FF9000?style=plastic&logo=getyarn&logoColor=white) 
-- ![TikTok](https://img.shields.io/badge/TikTok-FF2D55?style=plastic&logo=tiktok&logoColor=white) 
-- ![Soundgasm](https://img.shields.io/badge/Soundgasm-F1672F?style=plastic&logo=soundgasm&logoColor=white) 
-- ![Text To Speech](https://img.shields.io/badge/Text%20To%20Speech-3080ff?style=plastic&logo=google-translate&logoColor=white)
 
 
 ### **Нужна помощь?** Присоединяйтесь к нашему [Discord Server](https://discord.gg/xTmekE7Urz) и задайте вопрос на канале `#support`.
