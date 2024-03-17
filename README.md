@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/INZEWORLD/savik">
+  <a href="https://github.com/INZEWORLD/savikcord">
     <img src="https://inzeworld.com/assets/img/savik.webp" alt="Pbot-plus" width="200" height="200">
   </a>
 
