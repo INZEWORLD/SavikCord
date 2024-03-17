@@ -1,10 +1,4 @@
 
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SAVIKСORD&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <!-- PROJECT LOGO -->
@@ -66,18 +60,3 @@
 
 [![DiscordBanner](https://invidget.switchblade.xyz/xTmekE7Urz)](https://discord.gg/xTmekE7Urz)
 [Support Server](https://discord.gg/xTmekE7Urz) - Приглашение на сервер поддержки SavikCord
-
-
-
-
-[version-shield]: https://img.shields.io/github/package-json/v/INZEWORLD/Savik?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/INZEWORLD/Savik.svg?style=for-the-badge
-[contributors-url]: https://github.com/INZEWORLD/Savik/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/INZEWORLD/Savik.svg?style=for-the-badge
-[forks-url]: https://github.com/INZEWORLD/Savik/network/members
-[stars-shield]: https://img.shields.io/github/stars/INZEWORLD/Savik.svg?style=for-the-badge
-[stars-url]: https://github.com/INZEWORLD/Savik/stargazers
-[issues-shield]: https://img.shields.io/github/issues/INZEWORLD/Savik.svg?style=for-the-badge
-[issues-url]: https://github.com/INZEWORLD/Savik/issues
-[license-shield]: https://img.shields.io/github/license/INZEWORLD/Savik.svg?style=for-the-badge
-[license-url]: https://github.com/INZEWORLD/Savik/blob/master/LICENSE
