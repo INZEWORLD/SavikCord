@@ -49,7 +49,8 @@
 - ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
 - ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
 - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white) 
-- ![Yandex Music](https://img.shields.io/badge/Yandex%20Music-FF0066?style=plastic&logo=yandex-music&logoColor=white) 
+- ![Yandex Music](https://img.shields.io/badge/Yandex%20Music-FF0066?style=plastic&logo=yandex-music&logoColor=white)
+- ![VKMusic](https://img.shields.io/badge/VKMusic-0066FF?style=plastic&logo=yandex-music&logoColor=white) 
 - ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white) 
 
 
