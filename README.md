@@ -21,6 +21,10 @@
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
+ <img src="https://github.com/user-attachments/assets/ef0cadda-fb84-4b5d-8b74-07cb2ab9db51" width="500" height="350"> 
+ <img src="https://github.com/user-attachments/assets/72cb02a8-80a4-4b71-b4c6-2b6e1a13cf27" width="465" height="205">
+ <img src="https://github.com/user-attachments/assets/2be73d3b-7a84-405c-9411-054b2b5d6a76" width="530" height="408"> 
+ </a>
 
 
 ## 🔥 Уникальные черты
