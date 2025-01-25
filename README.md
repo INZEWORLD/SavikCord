@@ -16,12 +16,12 @@
 with lots of cool features and RolePlay commands!
     <br />
         <a href="https://github.com/INZEWORLD/JuroCord">Полная версия ресурса, весь код размещен в JuroCord | The full version of the resource, all the code is posted in JuroCord  </a>
-
-    <br />
+    <br/>
     <a href="https://github.com/INZEWORLD/Savik/issues">Сообщить об ошибке / Report a bug</a>
     ·
     <a href="https://github.com/INZEWORLD/Savik/issues">Запросить функцию / Request a feature</a>
   </p>
+  
 </p>
 <!-- ABOUT THE PROJECT -->
  <img src="https://github.com/user-attachments/assets/ef0cadda-fb84-4b5d-8b74-07cb2ab9db51" width="500" height="350"> 
