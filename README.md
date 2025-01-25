@@ -12,12 +12,15 @@
 
   <p align="center">
     SavikCord — Музыкальный и развлекательный бот Discord 
-с множеством классных функций и RolePlay команд!
+с множеством классных функций и RolePlay команд! / SavikCord - Music and Entertainment Discord Bot
+with lots of cool features and RolePlay commands!
     <br />
+        <a href="https://github.com/INZEWORLD/JuroCord">Полная версия ресурса, весь код размещен в JuroCord | The full version of the resource, all the code is posted in JuroCord  </a>
+
     <br />
-    <a href="https://github.com/INZEWORLD/Savik/issues">Сообщить об ошибке</a>
+    <a href="https://github.com/INZEWORLD/Savik/issues">Сообщить об ошибке / Report a bug</a>
     ·
-    <a href="https://github.com/INZEWORLD/Savik/issues">Запросить функцию</a>
+    <a href="https://github.com/INZEWORLD/Savik/issues">Запросить функцию / Request a feature</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
@@ -25,11 +28,31 @@
  <img src="https://github.com/user-attachments/assets/72cb02a8-80a4-4b71-b4c6-2b6e1a13cf27" width="465" height="205">
  <img src="https://github.com/user-attachments/assets/2be73d3b-7a84-405c-9411-054b2b5d6a76" width="530" height="408"> 
  </a>
+ 
+## EN
+## 🔥 Unique Features
 
+- Powered by Discord.js v14 +
+- Advanced Music System
+- Customizable Prefix
+- Powerful Search Engine
+- 12+ Music Filters
+- Hybrid Command Processing (Slash and Regular Commands)
+- Highly Customizable
+- Convenient and Easy to Use
+- 24/7 Music Playback
+- Playlist Commands
+- Music Channel Customization
+- RolePlay/Entertainment Commands
 
+## 🎶 Supports
+
+🔍 **Default**:
+
+## RU
 ## 🔥 Уникальные черты
 
-- Разработан на Discord.js v14.
+- Разработан на Discord.js v14 +
 - Продвинутая музыкальная система
 - Настраиваемый префикс
 - Мощная поисковая система
@@ -57,7 +80,16 @@
 - ![VKMusic](https://img.shields.io/badge/VKMusic-0066FF?style=plastic&logo=yandex-music&logoColor=white) 
 - ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white) 
 
+## EN
+### **Need help?** Join our [Discord Server](https://discord.gg/xTmekE7Urz) and ask your question in the `#support` channel.
 
+## 💌 Support Server
+
+[![DiscordBanner](https://invidget.switchblade.xyz/xTmekE7Urz)](https://discord.gg/xTmekE7Urz)
+[Support Server](https://discord.gg/xTmekE7Urz) - Invitation to the SavikCord support server
+
+
+## RU
 ### **Нужна помощь?** Присоединяйтесь к нашему [Discord Server](https://discord.gg/xTmekE7Urz) и задайте вопрос на канале `#support`.
 
 
