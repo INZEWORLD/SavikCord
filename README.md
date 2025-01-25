@@ -12,7 +12,7 @@
 
   <p align="center">
     SavikCord — Музыкальный и развлекательный бот Discord 
-с множеством классных функций и RolePlay команд! / SavikCord - Music and Entertainment Discord Bot
+с множеством классных функций и RolePlay команд! / SavikCord - Music and Entertainment Discord Bot 
 with lots of cool features and RolePlay commands!
     <br />
         <a href="https://github.com/INZEWORLD/JuroCord">Полная версия ресурса, весь код размещен в JuroCord | The full version of the resource, all the code is posted in JuroCord  </a>
