@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/INZEWORLD/savikcord">
-    <img src="https://inzeworld.com/assets/img/savik.webp" alt="Pbot-plus" width="200" height="200">
+    <img src="https://inzeworld.com/assets/savik.webp" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">SavikCord</h3>
